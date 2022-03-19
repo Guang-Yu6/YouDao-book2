@@ -8,7 +8,7 @@
 export default {
   data () {
     return {
-      msg: '回收站笔记详情页1'
+      msg: '回收站笔记详情页21'
     }
   }
 }
